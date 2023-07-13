@@ -1,0 +1,3 @@
+[submodule "Restaurant-Page"]
+	path = Restaurant-Page
+	url = git@github.com:Estercade/Restaurant-Page.git
